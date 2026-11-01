@@ -1,0 +1,5 @@
+training_contamination_percent,instance_auroc,full_pixel_auroc,anomaly_pixel_auroc,clean_training_images,contaminated_training_images
+0,1.0,0.984839,0.979561,209,0
+5,1.0,0.984991,0.979764,209,10
+10,1.0,0.985076,0.979881,209,21
+20,1.0,0.985292,0.980171,209,41

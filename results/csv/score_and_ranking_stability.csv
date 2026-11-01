@@ -1,0 +1,5 @@
+condition,mean_anomaly_score,mean_score_change_vs_clean,mean_absolute_score_change,images_with_changed_rank,mean_absolute_rank_change,normal_mean_score,anomaly_mean_score,separation_margin
+Clean,5.732446,0.0,0.0,0,0.0,1.408911,7.104997,5.696085
+5%,5.694642,-0.037804,0.093526,50,1.13253,1.411122,7.054489,5.643368
+10%,5.670999,-0.061447,0.118605,55,1.421687,1.432848,7.016444,5.583595
+20%,5.619413,-0.113033,0.145325,57,1.614458,1.407059,6.956668,5.549609

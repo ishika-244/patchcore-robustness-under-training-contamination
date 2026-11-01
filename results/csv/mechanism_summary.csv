@@ -1,0 +1,9 @@
+metric,result
+Instance AUROC (clean / 20% contamination),1.000 / 1.000
+Clean memory vectors shared between models,"7,743 (47.3%)"
+Full test-set NN change rate,99.86%
+Changed NN from contaminated sources,"8,211 (12.64%)"
+Test patches with increased distance,"25,078"
+Test patches with decreased distance,"30,590"
+Test images with changed anomaly scores,63 out of 83
+Normal-image mean score (clean / contaminated),1.4089 / 1.4071
