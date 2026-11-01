@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset — do not upload
+Dataset/
+bottle/
+*.tar.xz
+
+# Model artifacts
+*.faiss
+*.pkl
+*.pth
+*.pt
+
+# Local paths and temporary files
+.DS_Store
+Thumbs.db
+*.log
+
+# Credentials
+.env
+.env.*
